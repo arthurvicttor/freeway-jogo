@@ -1,1 +1,1 @@
-# freeway-jogo
+# jogo-freeway
